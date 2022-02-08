@@ -9,3 +9,7 @@ books_read = 86.7
 
 having_fun = true
 feeling_hungry = false
+
+name = "Mr." + name
+city = city + ", CA"
+favorite_season = favorite_season + " or Fall"
